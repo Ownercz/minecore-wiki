@@ -1,16 +1,16 @@
-## Ochrana pozemku
+# Ochrana pozemku
   - Ochrana se tvoří dřevěnou motyčkou.
   - Jednoduše označím dva body do &cuhlopříčky s dřevěnou motyčkou, pravým kliknutím
-### Přidání kamaráda do &eclaimu
+## Přidání kamaráda do &eclaimu
   - `/trust [jménoHráče] [typ]` (musíš stát ve svém claimu)
-#### Typy přístupu
+## Typy přístupu
   - Typy přístupu, které můžeš nastavit pro tvého kamaráda
   - Accessor - přístup pouze k interaktivním blockům (dveře, tlačítko…)
   - Container - přístup k interaktivním blockům a inventářům (bedna, pec…)'
   - Builder - přístup k předchozím + stavění a ničení blocků
-#### Odstranění osoby z claimu
+## Odstranění osoby z claimu
   - `/untrust [jménoHráče]` (musíš stát ve svém claimu)
-#### Smazání vlastního claimu
+## Smazání vlastního claimu
   - Smazání tvého claimu. Pozor tato akce je nevratná
   - `/abandon` - zrušení claimu (musíš stát ve svém claimu)
 
@@ -20,7 +20,7 @@
 
 
 
-
+------
 
 
 ## Welcome to GitHub Pages
