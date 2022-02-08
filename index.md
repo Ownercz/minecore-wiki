@@ -1,16 +1,16 @@
 # Ochrana pozemku
   - Ochrana se tvoří dřevěnou motyčkou.
   - Jednoduše označím dva body do &cuhlopříčky s dřevěnou motyčkou, pravým kliknutím
-## Přidání kamaráda do &eclaimu
+  **Přidání kamaráda do claimu**
   - `/trust [jménoHráče] [typ]` (musíš stát ve svém claimu)
-## Typy přístupu
+  **Typy přístupu**
   - Typy přístupu, které můžeš nastavit pro tvého kamaráda
   - Accessor - přístup pouze k interaktivním blockům (dveře, tlačítko…)
   - Container - přístup k interaktivním blockům a inventářům (bedna, pec…)'
   - Builder - přístup k předchozím + stavění a ničení blocků
-## Odstranění osoby z claimu
+ **Odstranění osoby z claimu**
   - `/untrust [jménoHráče]` (musíš stát ve svém claimu)
-## Smazání vlastního claimu
+ **Smazání vlastního claimu**
   - Smazání tvého claimu. Pozor tato akce je nevratná
   - `/abandon` - zrušení claimu (musíš stát ve svém claimu)
 
@@ -18,7 +18,24 @@
   - Funguje jako v klasickém MC s tou výjimkou, že villagera není možné vystrašit nebo jiným způsobem přesvědčit, aby vám dal slevy.
   - Máme to takto nastaveno, protože chceme udržet vybalancovanou hru, která vás bude bavit.
 
+#  ChestSort
+  **Jedná se o VIP výhodu (essentials&r,silver,gold)!**
+  - Tato výhoda vám umožní pár klinutím:
+  - Uspořádat si svůj inventář
+  - Uspořádat jakoukoliv &ebednu nebo barel
+  - Vzít&r si vše z inv do bedny a zpět
 
+  **Zkratky na uspořádání inv a beden:**
+  - Dvojté levé kliknutí (do prázdného místa v inv)
+  - Shift + levé kliknutí (do prázdného místa v inv)
+  - Shift + pravé kliknutí (do prázdného místa v inv)
+
+  **Zkratky pro přemístění věcí:**
+  - Z inventáře do bedny
+  - Dvojté levé kliknutí (mimo inventář)
+  - Z bedny do inventáře
+  - Dvojté pravé kliknutí (mimo inventář)
+  - Zapnutí vypnutí zkratek - /chestsort
 
 
 
