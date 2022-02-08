@@ -18,6 +18,13 @@
   - Smazání tvého claimu. Pozor tato akce je nevratná
   - `/abandon` - zrušení claimu (musíš stát ve svém claimu)
 
+ **Získání blocků do claimu**
+ - **V základu** máš **60 000** bloků, což je **plocha 240x240 bloků**.
+ - Za každou ingame hodinu získáš **120 blocků**.
+ - Za VIP **dostaneš blocky navíc** viz popis.
+ - Jeden **claim** může být velký **250x250** bloků. Později si ho můžeš roztáhnout nebo udělat další.
+ - **Minimální claim** je 5x5.
+
 # Tradování s villagery
   - Funguje jako v klasickém MC s tou výjimkou, že villagera není možné vystrašit nebo jiným způsobem přesvědčit, aby vám dal slevy.
   - Máme to takto nastaveno, protože chceme udržet vybalancovanou hru, která vás bude bavit.
