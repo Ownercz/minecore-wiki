@@ -14,7 +14,9 @@
   - Smazání tvého claimu. Pozor tato akce je nevratná
   - `/abandon` - zrušení claimu (musíš stát ve svém claimu)
 
-
+# Tradování s villagery
+  - Používáme nastavení tradu, na které jste byli zvyklí z předchozích verzí.
+  - Máme to takto nastaveno, protože chceme udržet vybalancovanou hru, která vás bude bavit.
 
 
 
