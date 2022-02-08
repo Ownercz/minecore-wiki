@@ -52,7 +52,7 @@
 **Vytvoření shopu**
   - Polož bednu, ve které chceš mít obchod.
   - Drž v ruce item, se kterým chceš obchodovat. 
-  - Napiš /shop create **<počet itemů>** **<výkupní cena>** **<prodejní cena>** 
+  - Napiš /shop create **(počet itemů)** **(výkupní cena)** **(prodejní cena)** 
   - Například /shop create 1 10 20
   - Tedy budu **vykupovat** 1 kus za **10** a **prodávat** ho budu za 20. #profit
   - Klepni na bednu, ve které chceš mít obchod.
