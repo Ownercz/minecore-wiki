@@ -15,7 +15,7 @@
   - `/abandon` - zrušení claimu (musíš stát ve svém claimu)
 
 # Tradování s villagery
-  - Používáme nastavení tradu, na které jste byli zvyklí z předchozích verzí.
+  - Funguje jako v klasickém MC s tou výjimkou, že villagera není možné vystrašit nebo jiným způsobem přesvědčit, aby vám dal slevy.
   - Máme to takto nastaveno, protože chceme udržet vybalancovanou hru, která vás bude bavit.
 
 
