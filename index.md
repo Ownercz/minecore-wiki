@@ -33,8 +33,8 @@
   **Jedná se o VIP výhodu (essentials,silver,gold)!**
   - Tato výhoda vám umožní pár klinutím:
   - Uspořádat si svůj inventář
-  - Uspořádat jakoukoliv &ebednu nebo barel
-  - Vzít&r si vše z inv do bedny a zpět
+  - Uspořádat jakoukoliv bednu nebo barel
+  - Vzít si vše z inv do bedny a zpět
 
   **Zkratky na uspořádání inv a beden:**
   - Dvojté levé kliknutí (do prázdného místa v inv)
