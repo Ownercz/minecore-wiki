@@ -1,6 +1,6 @@
 # Ochrana pozemku
   - Ochrana se tvoří dřevěnou motyčkou.
-  - Jednoduše označím dva body do &cuhlopříčky s dřevěnou motyčkou, pravým kliknutím
+  - Jednoduše označím dva body do úhlopříčky s dřevěnou motyčkou, pravým kliknutím.
   
   **Přidání kamaráda do claimu**
   - `/trust [jménoHráče] [typ]` (musíš stát ve svém claimu)
