@@ -33,7 +33,7 @@ Zelené = tvůj pozemek, šedé = ničí pozemek, červené = cizí/pvp.
 
 ### Admin cmds
 /townyadmin town ghasty_test spawn - teleport na ghasty_test town
-
+/townyadmin unclaim - unclaim pozemku
 
 
 towny map big
