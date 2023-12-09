@@ -46,7 +46,6 @@ towny map hud
 /tw list
 
 
-
 # Long towny list
 - https://wiki.ccnetmc.com/Guides/TownyCommands
 
